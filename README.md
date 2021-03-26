@@ -1,0 +1,1 @@
+This is Python Framework Django test project.
